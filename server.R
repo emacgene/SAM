@@ -5,7 +5,7 @@ library(samr)
 library(GSA)
 
 source("GSA.listsets.revised.R")
-source("GSA.correlate.revised.R")
+source("GSA.correlate.revised.r")
 source("GSA.plot.revised.R")
 
 shinyServer(function(input, output) {  
